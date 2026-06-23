@@ -40,6 +40,10 @@ MyProject1_usingC
 ├── README.md
 └── .gitignore
 
+## 📸 Screenshot
+
+![Calculator](screenshots/calculator.png)
+
 ## 👩‍💻 Author
 
 Ekshitha
